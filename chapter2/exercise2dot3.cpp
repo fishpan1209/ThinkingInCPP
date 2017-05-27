@@ -1,5 +1,5 @@
 //
-// Created by Ting Pan on 5/24/17.
+// Created by fishpan1209 on 5/24/17.
 // exercise 2.3 Create a program that opens a file and counts the whitespace-separated words in that file.
 //
 
